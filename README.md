@@ -5,9 +5,10 @@ Please note that in order for the tool to work as intended, you must disable Tas
 from appearing in the CTRL + ALT + DEL menu. In order to do this, disable it via
 the Local Group Policy Editor:
 
---> Local Group Policy Editor 
-  --> User Configuration
-    --> Administrative Templates 
-      --> System 
-        --> Ctrl + Alt + Del Options
-          --> Remove Task Manager.
+    --> Local Group Policy Editor
+        --> User Configuration
+            --> Administrative Templates 
+                --> System 
+                    --> Ctrl + Alt + Del Options
+                        --> Remove Task Manager.
+
