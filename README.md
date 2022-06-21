@@ -1,4 +1,4 @@
-# examiner
+# Examiner
 Examiner tool for use on Windows OS devices. Locks and unlocks a device for exam-like conditions.
 
 Please note that in order for the tool to work as intended, you must disable Task Manager 
